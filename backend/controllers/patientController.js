@@ -1,0 +1,1 @@
+exports.getPatients = (req,res)=>{res.json([]);};
