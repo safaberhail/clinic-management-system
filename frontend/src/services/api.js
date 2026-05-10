@@ -1,2 +1,2 @@
-import axios from 'axios';
-export default axios.create({baseURL:'http://localhost:5000'});
+import axios from 'axios';:
+export default axios.create({baseURL:'https://clinic-management-system-oowz.onrender.com/'});
